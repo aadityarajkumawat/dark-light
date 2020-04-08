@@ -379,7 +379,7 @@ body {
   width: 100%;
   height: 3px;
   background: -webkit-gradient(linear, left top, left bottom, from(#fdc468), to(#df4996));
-  background: linear-gradient(#fdc468, #df4996);
+  background: linear-gradient(to right, #fdc468, #df4996);
   position: absolute;
   width: 17.6%;
   border-top-left-radius: 6px;
